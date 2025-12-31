@@ -1,0 +1,9 @@
+User ID,User First Name,User Last Name,User Email,District,User Status,User Creation Date,User last access date,Curriculum Title (Transcript),Transcript Status Group,Curriculum Completion Percentage
+1,John,Doe,john.doe@example.com,District A,Active,2024-01-10,2024-12-15,Math Basics,Completed,100
+1,John,Doe,john.doe@example.com,District A,Active,2024-01-10,2024-12-15,Science Intro,In Progress,40
+2,Jane,Smith,jane.smith@example.com,District B,Active,2024-02-20,2024-12-20,Math Basics,Completed,95
+2,Jane,Smith,jane.smith@example.com,District B,Active,2024-02-20,2024-12-20,History 101,Not Started,0
+3,Bob,Brown,bob.brown@example.com,District A,Active,2024-03-05,2024-12-10,Math Basics,In Progress,30
+3,Bob,Brown,bob.brown@example.com,District A,Active,2024-03-05,2024-12-10,Science Intro,In Progress,20
+4,Alice,Green,alice.green@example.com,District C,Active,2024-04-01,2024-12-22,History 101,Completed,85
+5,Tom,White,tom.white@example.com,District B,Active,2024-05-15,2024-12-01,Math Basics,In Progress,10
